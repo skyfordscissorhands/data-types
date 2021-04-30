@@ -174,12 +174,10 @@ var small= `small`;
 console.log (`I am ${big} like and elephant! I am ${small} like a moouse!`);
 
 
+
 // new template literal
 
-var firstName= `John`;
-var birthday= `01-19-1985`;
-var message= `Welcome to Class`;
-console.log(`Your birthday is ${birthday} ${firstName}. ${message}.`)
-
-
-}
+// var firstName= `John`;
+// var birthday= `01-19-1985`;
+// var message= `Welcome to Class`;
+// console.log(`Your birthday is ${birthday} ${firstName}. ${message}.`)
